@@ -1,0 +1,132 @@
+[
+    {
+      "id": 1,
+      "name": "Afif Hossain Dhrubo",
+      "role": "Allrounder",
+      "age": 22,
+      "image": "https://p.imgci.com/db/PICTURES/CMS/306000/306068.1.jpg",
+      "salary": 30000,
+      "birthPlace": "Khulna"
+    },
+    {
+      "id": 2,
+      "name": "Liton Kumar Das",
+      "role": "Wicketkeeper Batsman",
+      "age": 27,
+      "image": "https://p.imgci.com/db/PICTURES/CMS/302900/302995.jpg",
+      "salary": 35000,
+      "birthPlace": "Dinajpur"
+    },
+    {
+      "id": 3,
+      "name": "Mahedi Hasan",
+      "role": "Allrounder",
+      "age": 27,
+      "image": "https://p.imgci.com/db/PICTURES/CMS/286600/286686.1.jpg",
+      "salary": 25000,
+      "birthPlace": "Khulna"
+    },
+    {
+      "id": 4,
+      "name": "Mohammad Mahmudullah",
+      "role": "Allrounder",
+      "age": 36,
+      "image": "https://p.imgci.com/db/PICTURES/CMS/263500/263581.jpg",
+      "salary": 40000,
+      "birthPlace": "Mymensingh"
+    },
+    {
+      "id": 5,
+      "name": "Mashrafe Mortaza",
+      "role": "Bowler",
+      "age": 38,
+      "image": "https://p.imgci.com/db/PICTURES/CMS/302900/302999.jpg",
+      "salary": 40000,
+      "birthPlace": "Norail"
+    },
+    {
+      "id": 6,
+      "name": "Mehidy Hasan Miraz",
+      "role": "Allrounder",
+      "age": 24,
+      "image": "https://p.imgci.com/db/PICTURES/CMS/303000/303000.jpg",
+      "salary": 30000,
+      "birthPlace": "Khulna"
+    },
+    {
+      "id": 7,
+      "name": "Mohammad Naim",
+      "role": "Batsman",
+      "age": 23,
+      "image": "https://p.imgci.com/db/PICTURES/CMS/303200/303235.jpg",
+      "salary": 25000,
+      "birthPlace": "Dhaka"
+    },
+    {
+      "id": 8,
+      "name": "Mohammad Saifuddin",
+      "role": "Bowler",
+      "age": 25,
+      "image": "https://p.imgci.com/db/PICTURES/CMS/303200/303236.jpg",
+      "salary": 25000,
+      "birthPlace": "Chittagong"
+    },
+    {
+      "id": 9,
+      "name": "Mosaddek Hossain Saikat",
+      "role": "Batsman",
+      "age": 26,
+      "image": "https://p.imgci.com/db/PICTURES/CMS/303100/303147.jpg",
+      "salary": 25000,
+      "birthPlace": "Mymensingh"
+    },
+    {
+      "id": 10,
+      "name": "Mohammad Mushfiqur Rahim",
+      "role": "Wicketkeeper Batsman",
+      "age": 34,
+      "image": "https://p.imgci.com/db/PICTURES/CMS/303100/303148.jpg",
+      "salary": 40000,
+      "birthPlace": "Bogra"
+    },{
+        "id": 11,
+        "name": "Mohammad Nayeem Hasan",
+        "role": "Bowler",
+        "age": 22,
+        "image": "https://p.imgci.com/db/PICTURES/CMS/269500/269532.1.jpg",
+        "salary": 20000,
+        "birthPlace": "Chittagong"
+    },{
+        "id": 12,
+        "name": "Najmul Hossain Shanto",
+        "role": "Batsman",
+        "age": 23,
+        "image": "https://p.imgci.com/db/PICTURES/CMS/303200/303241.jpg",
+        "salary": 20000,
+        "birthPlace": "Rajshahi"
+    },{
+        "id": 13,
+        "name": "Mohammad Saif Hasan",
+        "role": "Batsman",
+        "age": 23,
+        "image": "https://p.imgci.com/db/PICTURES/CMS/303200/303248.jpg",
+        "salary": 20000,
+        "birthPlace": "Dhaka"
+    },{
+        "id": 14,
+        "name": "Sakib Al Hasan",
+        "role": "Allrounder",
+        "age": 34,
+        "image": "https://p.imgci.com/db/PICTURES/CMS/303100/303157.jpg",
+        "salary": 50000,
+        "birthPlace": "Jessore"
+    },{
+        "id": 15,
+        "name": "Soumya Sarkar",
+        "role": "Batsman",
+        "age": 29,
+        "image": "https://p.imgci.com/db/PICTURES/CMS/303100/303160.jpg",
+        "salary": 30000,
+        "birthPlace": "Satkhira"
+    }
+  ]
